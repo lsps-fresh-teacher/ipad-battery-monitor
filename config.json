@@ -20,7 +20,7 @@
   "_carts說明": "依 Jamf「使用者名稱」或「裝置名稱」裡的代號分車。prefix 要出現在名稱開頭或前後有 - _，例如 STU3-12、SMES-STU3-12；最後一段數字會當成車上的格號。kind：student 會列入待檢查與推播，teacher 只顯示。",
   "carts": [
     { "prefix": "LSPS-1", "label": "1號車", "kind": "student" },
-    { "prefix": "LSPS-2", "label": "2號車", "kind": "student" },
+    { "prefix": "LSPS-2", "label": "2號車", "kind": "student" }
   ],
   "otherLabel": "其他"
 }
