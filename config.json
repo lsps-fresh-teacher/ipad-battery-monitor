@@ -24,7 +24,9 @@
     { "prefix": "STU-3", "label": "3號車", "kind": "student" },
     { "prefix": "STU-4", "label": "4號車", "kind": "student" },
     { "prefix": "STU-5", "label": "5號車", "kind": "student" },
-    { "prefix": "STU-6", "label": "6號車", "kind": "student" }
+    { "prefix": "STU-6", "label": "6號車", "kind": "student" },
+    { "prefix": "STU-7", "label": "7號車", "kind": "student" },
+    { "prefix": "TEA", "label": "老師機", "kind": "teacher" }
   ],
   "otherLabel": "其他"
 }
