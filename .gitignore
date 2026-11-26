@@ -1,0 +1,12 @@
+# 機密：Jamf 帳密與環境變數，絕對不能上傳
+jamf.txt
+gchat.txt
+github-token.txt
+.env
+*.env
+prev.json
+__pycache__/
+gas/.clasp.json
+gas/Secret.gs
+site/data.json
+promo/
